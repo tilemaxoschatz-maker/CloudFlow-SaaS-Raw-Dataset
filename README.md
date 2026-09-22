@@ -421,6 +421,16 @@ The presentation covers:
 7. Marketing efficiency by acquisition channel
 8. Management recommendations and success measures
 
+### Presentation Preview
+
+<p align="center">
+  <img src="https://github.com/tilemaxoschatz-maker/CloudFlow-SaaS-Raw-Dataset/blob/main/presentation_review/Screenshot%202026-09-22%20160453.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/tilemaxoschatz-maker/CloudFlow-SaaS-Raw-Dataset/blob/main/presentation_review/Screenshot%202026-09-22%20160524.png">
+</p>
+
 **[Download the full executive PowerPoint presentation](./CloudFlow_SaaS_Analytics_Project_Final_v2.pptx)**
 
 ---
