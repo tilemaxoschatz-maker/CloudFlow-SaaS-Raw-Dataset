@@ -12,10 +12,6 @@ The final deliverable combines data documentation, quality controls, clean layer
 
 **[▶ View the full native Google Sheets workbook](https://docs.google.com/spreadsheets/d/1aB6EJyum1TMhO1PrAaIwPElv_bpxdSFA2bQxTE7J2KI/edit)**
 
-### Downloads
-
-- **[Download the Excel export](https://docs.google.com/spreadsheets/d/1aB6EJyum1TMhO1PrAaIwPElv_bpxdSFA2bQxTE7J2KI/export?format=xlsx)**
-- **[Download the executive PowerPoint presentation](./CloudFlow_SaaS_Analytics_Project_Final_v2.pptx)**
 
 ---
 ## Dashboard Preview
