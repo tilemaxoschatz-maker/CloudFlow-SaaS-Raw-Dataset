@@ -18,7 +18,17 @@ The final deliverable combines data documentation, quality controls, clean layer
 - **[Download the executive PowerPoint presentation](./CloudFlow_SaaS_Analytics_Project_Final_v2.pptx)**
 
 ---
+## Dashboard Preview
 
+<p align="center">
+  <img src="https://github.com/tilemaxoschatz-maker/CloudFlow-SaaS-Raw-Dataset/blob/main/dashboard_review/Screenshot%202026-09-22%20153752.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/tilemaxoschatz-maker/CloudFlow-SaaS-Raw-Dataset/blob/main/dashboard_review/Screenshot%202026-09-22%20153830.png">
+</p>
+
+---
 ## Project Overview
 
 | Item | Description |
